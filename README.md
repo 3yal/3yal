@@ -2,6 +2,7 @@
 <p align='center'>
    <a href="https://discord.gg/2ybjSaC8GZ"><img src="https://img.shields.io/discord/744592615592296539?logo=discord&logoColor=black&style=social">
    <a href="https://www.instagram.com/m4gamal/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white">
+      </p>
    
    
    
