@@ -17,5 +17,11 @@
    - BirthDate : 1-24-2007,
    - Discord : "FTF| Sphinx#1100"
    - [My Website](https://oldsphinx.tk)
-   
-   <img src="https://github-readme-stats.vercel.app/api?username=ItzSphinx&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+
+<p align='center'>
+       <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ItzSphinx&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItzSphinx&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Sphinx" height="192px"/>
+</p>
