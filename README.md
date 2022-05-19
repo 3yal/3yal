@@ -15,7 +15,7 @@
    - Librarys : ["ReactJS", "BrainJS"],
    - Debendcies : ["ExpressJS", "EJS", "DiscordJS"],
    - BirthDate : 1-24-2007,
-   - Discord : "FTF| Sphinx#1100"
+   - Discord : "Sphinx#1100"
    - [My Website](https://oldsphinx.tk)
 
 
