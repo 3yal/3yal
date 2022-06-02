@@ -2,7 +2,7 @@
 
 <h2 align="center">Hello, I'm Sphinx</h2>
 
-<img align="center" src="https://discord.c99.nl/widget/theme-1/740181687874486324.png"/>
+<img align="center" src="https://discord.c99.nl/widget/theme-3/500367748724031492.png"/>
 
   <br/>
     <img src="https://komarev.com/ghpvc/?username=ioSphinx"/>
