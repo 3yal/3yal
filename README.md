@@ -2,7 +2,7 @@
 
 <h2 align="center">Hello, I'm Sphinx</h2>
 
-<img align="center" src="https://discord.c99.nl/widget/theme-3/500367748724031492.png"/>
+<center><img align="center" src="https://discord.c99.nl/widget/theme-3/500367748724031492.png"/></center>
 
   <br/>
     <img src="https://komarev.com/ghpvc/?username=ioSphinx"/>
@@ -13,7 +13,8 @@
 
 <h1 id="skills" align="center">MY Languages And Library's🎓</h1> 
 
-<img align="left" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<center>
+  <img align="left" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/express.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
@@ -21,6 +22,7 @@
 <img align="left" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 <img align="left" src="https://img.icons8.com/ultraviolet/40/000000/api-settings.png"/>
+  </center>
 <br>
 <br>
 <br>
