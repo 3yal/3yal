@@ -8,7 +8,7 @@
     <img src="https://komarev.com/ghpvc/?username=ioSphinx"/>
 </div>
 <h1 align="center">Info About Me🤔 ?</h1> 
-<h3>You canc all me sphinx no need for real name, i'm 15 years old , a simple developer interested in engineering </h3>
+<h3>You can call me sphinx, a simple developer interested in engineering </h3>
 
 
 <h1 id="skills" align="center">MY Languages And Library's🎓</h1> 
