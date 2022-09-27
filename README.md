@@ -1,7 +1,7 @@
 
 
 <h2 align="center">Hello, I'm Sphinx</h2>
-
+<a href="https://wakatime.com/@91cf33e8-e964-4df2-8c3e-99e5ecc070b2"><img src="https://wakatime.com/badge/user/91cf33e8-e964-4df2-8c3e-99e5ecc070b2.svg" alt="Total time coded since Feb 22 2022" /></a>
 <center><img align="center" src="https://discord.c99.nl/widget/theme-3/500367748724031492.png"/></center>
 
   <br/>
