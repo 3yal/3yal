@@ -30,9 +30,9 @@
 <br>
  <h2 align="center">MY GITHUB STATS 👨‍💻</h1>
   <div align="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=ioSphinx&show_icons=true&theme=tokyonight"/>
+  <img  src="https://github-readme-stats.vercel.app/api?username=vrzc&show_icons=true&theme=tokyonight"/>
 <br />
 <br />
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioSphinx&layout=compac&langs_count=8t&theme=tokyonight"/>
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrzc&layout=compac&langs_count=8t&theme=tokyonight"/>
 </div>
 
