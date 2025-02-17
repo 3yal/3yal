@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sphinx</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A passionate fullstack (mostly backend) developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ioSphinx"/> </p>
 
