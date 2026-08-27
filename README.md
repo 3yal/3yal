@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sphinx</h1>
 <h3 align="center">A passionate fullstack (mostly backend) developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ioSphinx"/> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3yal&theme=onedark" alt="3yal" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=3yal&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
